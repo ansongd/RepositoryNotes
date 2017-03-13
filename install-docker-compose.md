@@ -6,3 +6,9 @@ curl -L "https://github.com/docker/compose/releases/download/1.11.2/docker-compo
 
 给予权限
 
+```
+chmod +x /usr/local/bin/docker-compose
+```
+
+
+
