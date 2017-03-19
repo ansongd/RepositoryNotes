@@ -1,4 +1,6 @@
-# Raspberry Pi 树莓派产品介绍
+# Raspberry Pi 手册说明
+
+[完整观看地址](https://ansongd.gitbooks.io/raspberrypi/content/)
 
 #### 说明
 树莓派（英语：Raspberry Pi），是一款基于Linux的单板机电脑。从发布至今已量产多个型号，本文作者使用的是树莓派3B版。
